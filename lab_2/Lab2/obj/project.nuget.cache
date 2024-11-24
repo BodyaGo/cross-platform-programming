@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8MSQtO64wk=",
+  "success": true,
+  "projectFilePath": "/Users/mukha/Documents/Унік/3й курс/Сем 1/кпп/lab_2/Lab2/lab2.csproj",
+  "expectedPackageFiles": [
+    "/Users/mukha/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/mukha/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/mukha/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
