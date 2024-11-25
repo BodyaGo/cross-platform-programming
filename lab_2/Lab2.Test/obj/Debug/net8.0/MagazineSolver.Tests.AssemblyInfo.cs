@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagazineSolver.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bb935af8f2b20c35143bef5fd97d046280a091d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c473c722cf63fc069ded3a1ecb68bd87ef411df8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagazineSolver.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagazineSolver.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
